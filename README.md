@@ -6,4 +6,5 @@ Play Tic Tac Toe with Arduino MicroContrroler
 *****************************************************************
 Run the application 
 *****************************************************************
-Enjoy 
+Arduino will try to beat you !
+Enjoy
